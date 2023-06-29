@@ -23,6 +23,10 @@ module.exports = {
         secondBgcolor: '#323946',
         textColor: '#fff',
         mainColor: '#0ef',
+      },
+      fontFamily: {
+        Playfair: ['Playfair Display', serif],
+        Poppins: ['Poppins', sans-serif],
       }
     },
   },
